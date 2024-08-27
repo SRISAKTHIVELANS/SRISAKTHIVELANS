@@ -2,9 +2,9 @@
 - 👀 I’m interested in Data Science,AI,ML,NLP
 - 🌱 I’m currently learning Data science
 - 💞️ I’m looking to collaborate with crearive pepoles
-- 📫 How to reach me in
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: 😂
+- 📫 How to reach me srisakthivelan0901@gmail.com
+- 😄 Pronouns:Techee
+- 😂 Fun fact: I'm Batman
 
 <!---
 SRISAKTHIVELANS/SRISAKTHIVELANS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
