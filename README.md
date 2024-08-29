@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Data science
 - 💞️ I’m looking to collaborate with crearive pepoles
 - 📫 How to reach me srisakthivelan0901@gmail.com
-- 😄 Pronouns:Techee
+- 😄 Pronouns:Techie
 - 😂 Fun fact: I'm Batman
 
 <!---
