@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SRISAKTHIVELANS
 - 👀 I’m interested in Data Science,AI,ML,NLP
 - 🌱 I’m currently learning Data science
-- 💞️ I’m looking to collaborate with crearive pepoles
+- 💞️ I’m looking to collaborate with creative peoples
 - 📫 How to reach me srisakthivelan0901@gmail.com
 - 😄 Pronouns:Techie
 - 😂 Fun fact: I'm Batman
